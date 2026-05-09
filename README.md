@@ -1,5 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm FeliMimi
 
+Physics student at the University of Innsbruck.
+
+I’m interested in real-world applications of physics and data analysis.
+
+Focused on practical problems and clean, data-driven insights.
 <!--
 **FeliMimi/FeliMimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
