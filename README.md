@@ -1,4 +1,4 @@
-## 👋 Hi, I'm FeliMimi
+## 👋 Hi, I'm Felix
 
 Physics student at the University of Innsbruck.
 
